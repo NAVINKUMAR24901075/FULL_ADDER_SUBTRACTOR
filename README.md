@@ -39,6 +39,16 @@ Borrow out = A'Bin + A'B + BBin
 
 # PROCEDURE:
 
+1.Type the program in Quartus software.
+
+2.Compile and run the program.
+
+3.Generate the RTL schematic and save the logic diagram.
+
+4.Create nodes for inputs and outputs to generate the timing diagram.
+
+5.For different input combinations generate the timing diagram.
+
 # Full Adder
 Inputs: Three inputs: A, B (the two bits to be added), and Cin (the carry-in bit from a previous addition).
 Outputs: Two outputs: Sum (the resulting sum) and Cout (the carry-out bit).
@@ -81,4 +91,4 @@ endmodule
 
 # RESULT:
 
-The Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
+Thus The Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
