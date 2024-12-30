@@ -91,4 +91,4 @@ endmodule
 
 # RESULT:
 
-Thus The Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
+Thus The Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software successfully
